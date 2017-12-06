@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Action Bar</string>
+    <string name="api_key">api_key</string>
+    <string name="poster_base_path">https://image.tmdb.org/t/p/w500</string>
+    <string name="movie_detail">Movie Detail</string>
+</resources>
